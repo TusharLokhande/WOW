@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jdm5L8En3ubBwDUE0FmXP6htcgFmdYFT/NxLcZF5OMy81CzhttKO2UwA0mot8n4CC476o0B4UMNgVOZ9Gr67uA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tlokh\\OneDrive\\Desktop\\Wow\\WOW\\WOW.Web.UI\\WOW.Web.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tlokh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\tlokh\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\tlokh\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\tlokh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\tlokh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\tlokh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

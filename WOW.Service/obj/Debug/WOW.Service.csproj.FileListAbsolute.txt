@@ -1,0 +1,11 @@
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Service\bin\Debug\WOW.Service.dll
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Service\bin\Debug\WOW.Service.pdb
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Service\bin\Debug\WOW.Core.dll
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Service\bin\Debug\WOW.Data.dll
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Service\bin\Debug\WOW.Core.pdb
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Service\bin\Debug\WOW.Data.pdb
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Service\obj\Debug\WOW.Service.csproj.AssemblyReference.cache
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Service\obj\Debug\WOW.Service.csproj.CoreCompileInputs.cache
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Service\obj\Debug\WOW.Service.csproj.CopyComplete
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Service\obj\Debug\WOW.Service.dll
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Service\obj\Debug\WOW.Service.pdb

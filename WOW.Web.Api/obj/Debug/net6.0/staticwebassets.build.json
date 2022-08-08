@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LoMvuodKffLfCx0pTyXLbVpfJ7/RUg1FD8w+zCfDWjE=",
+  "Source": "WOW.Web.Api",
+  "BasePath": "_content/WOW.Web.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

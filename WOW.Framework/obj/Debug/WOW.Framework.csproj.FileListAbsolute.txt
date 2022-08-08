@@ -1,0 +1,13 @@
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Framework\bin\Debug\WOW.Framework.dll
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Framework\bin\Debug\WOW.Framework.pdb
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Framework\bin\Debug\WOW.Core.dll
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Framework\bin\Debug\WOW.Data.dll
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Framework\bin\Debug\WOW.Service.dll
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Framework\bin\Debug\WOW.Core.pdb
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Framework\bin\Debug\WOW.Data.pdb
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Framework\bin\Debug\WOW.Service.pdb
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Framework\obj\Debug\WOW.Framework.csproj.AssemblyReference.cache
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Framework\obj\Debug\WOW.Framework.csproj.CoreCompileInputs.cache
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Framework\obj\Debug\WOW.Framework.csproj.CopyComplete
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Framework\obj\Debug\WOW.Framework.dll
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Framework\obj\Debug\WOW.Framework.pdb

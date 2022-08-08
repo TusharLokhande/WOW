@@ -1,0 +1,6 @@
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Core\bin\Debug\WOW.Core.dll
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Core\bin\Debug\WOW.Core.pdb
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Core\obj\Debug\WOW.Core.csproj.AssemblyReference.cache
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Core\obj\Debug\WOW.Core.csproj.CoreCompileInputs.cache
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Core\obj\Debug\WOW.Core.dll
+C:\Users\tlokh\OneDrive\Desktop\Wow\WOW\WOW.Core\obj\Debug\WOW.Core.pdb
